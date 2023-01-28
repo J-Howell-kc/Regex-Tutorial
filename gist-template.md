@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Deconstructing an Email Address Validation RegEx
 
-Introductory paragraph (replace this with your text)
+In this Gist, I'll attempt to provide a thorough exmination of the functionality of a common RegEx, piece by piece.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The RegEx we'll look at is this: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ - a common email address validation RegEx.
 
 ## Table of Contents
 
